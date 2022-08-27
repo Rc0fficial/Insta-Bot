@@ -1,0 +1,44 @@
+1652100935583	geckodriver	INFO	Listening on 127.0.0.1:56707
+1652100938722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56708" "-no-remote" "-profile" "C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofileJZvSTU"
+1652100940379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofileJZvSTU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56708/devtools/browser/ace161e9-e299-4722-8874-6aefbc1d18d7
+1652100947267	Marionette	INFO	Listening on port 56714
+1652100947929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652100953427	Marionette	INFO	Stopped listening on port 56714
+1652100998755	geckodriver	INFO	Listening on 127.0.0.1:56771
+1652101001747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56772" "-no-remote" "-profile" "C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofileyX0PT1"
+1652101002402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofileyX0PT1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56772/devtools/browser/e51d0ac3-b50f-4de9-b796-0732922aa07d
+1652101007158	Marionette	INFO	Listening on port 56779
+1652101007595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652101010810	Marionette	INFO	Stopped listening on port 56779
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1652101213441	geckodriver	INFO	Listening on 127.0.0.1:56930
+1652101216421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56931" "-no-remote" "-profile" "C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofilewKIceh"
+1652101217478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofilewKIceh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56931/devtools/browser/a87b50fb-4d54-4017-8e33-8410fb90c26f
+1652101223140	Marionette	INFO	Listening on port 56937
+1652101223793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652101229679	Marionette	INFO	Stopped listening on port 56937
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 8956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652102286683	geckodriver	INFO	Listening on 127.0.0.1:57197
+1652102289631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57198" "-no-remote" "-profile" "C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofilenJLk0D"
+1652102291030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofilenJLk0D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57198/devtools/browser/f4a22403-26be-4662-8209-e8d9e06541c8
+1652102300179	Marionette	INFO	Listening on port 57206
+1652102300991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652102307337	Marionette	INFO	Stopped listening on port 57206
+1652103626226	geckodriver	INFO	Listening on 127.0.0.1:57575
+1652103629218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57576" "-no-remote" "-profile" "C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofile0BQ66s"
+1652103630276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rc\\AppData\\Local\\Temp\\rust_mozprofile0BQ66s\\search.json.mozlz4", (void 0)))
